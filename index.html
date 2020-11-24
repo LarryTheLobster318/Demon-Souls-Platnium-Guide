@@ -1,51 +1,10 @@
 <!DOCTYPE HTML>
-<html style = "font-family:Arial">
+<html class="save-cb-state" style = "font-family:Arial">
     
-    <script> 
-// Avoid scoping issues by encapsulating 
-// code inside anonymous function 
-(function() { 
-  // variable to store our current state 
-  var cbstate; 
-   
-  // bind to the onload event 
-  window.addEventListener('load', function() { 
-    // Get the current state from localstorage 
-    // State is stored as a JSON string 
-    cbstate = JSON.parse(localStorage['CBState'] || '{}'); 
-   
-    // Loop through state array and restore checked  
-    // state for matching elements 
-    for(var i in cbstate) { 
-      var el = document.querySelector('input[name="' + i + '"]'); 
-      if (el) el.checked = true; 
-    } 
-   
-    // Get all checkboxes that you want to monitor state for 
-    var cb = document.getElementsByClassName('save-cb-state'); 
-   
-    // Loop through results and ... 
-    for(var i = 0; i < cb.length; i++) { 
-   
-      //bind click event handler 
-      cb[i].addEventListener('click', function(evt) { 
-        // If checkboxe is checked then save to state 
-        if (this.checked) { 
-          cbstate[this.name] = true; 
-        } 
-     
-       // Else remove from state 
-        else if (cbstate[this.name]) { 
-          delete cbstate[this.name]; 
-        } 
-     
-       // Persist state 
-        localStorage.CBState = JSON.stringify(cbstate); 
-      }); 
-    } 
-  }); 
-})(); 
-</script> 
+<script src="http://code.jquery.com/jquery.js"></script>
+
+
+
 <h1>Demon Souls Cheat Sheet For All Trophies (Does not currently save so don't refresh)</h3>
 
 
@@ -77,7 +36,7 @@
 
 <h3 id='Start_New_Game'<a href="#Start_New_Game"</a>Start New Game</h3>
 <ul id="Start_New_Game">
-            <input type="checkbox"li data-id="playthrough_0_1">Pick the <a href="https://demonssouls.wiki.fextralife.com/Providential+Ring">Providential Ring</a> as your starting gift</li><br>
+            <input class="save-cb-state" type="checkbox"li data-id="playthrough_0_1">Pick the <a href="https://demonssouls.wiki.fextralife.com/Providential+Ring">Providential Ring</a> as your starting gift</li><br>
             <input type="checkbox"li data-id="playthrough_0_2">Recommend Royalty class (<a href="https://demonssouls.wiki.fextralife.com/Fragrant+Ring">Fragrant Ring</a> saves time, and magic helps a few trophies)</li><br>
             <input type="checkbox"li data-id="playthrough_0_3">If Royalty, build towards 40 Magic, 30 Int, any other stats as you see fit</li><br>
             <input type="checkbox"li data-id="playthrough_0_4">Don't invade anyone. Don't use Blue Stone in World 3 as you might be summoned as Old Monk boss.</li><br>
@@ -289,4 +248,49 @@
 <input type="checkbox"li data-id="playthrough_NEWGAMEPLUS_1">Descend with the Maiden in Black, kill the Old King Allant, then also kill the Maiden for Seekest soul power trophy</li><br>
 <input type="checkbox"li data-id="playthrough_NEWGAMEPLUS_1">You should now have Slayer of Trophies platinum! Congratulations</li><br>
 <p>*if you are not able/comfortable abusing the saves to get the miracles/spells in just 2 playthroughs, you will have to do a third and final NG++</p>
+
+<script>
+// Avoid scoping issues by encapsulating code inside anonymous function
+(function() {
+  // variable to store our current state
+  var cbstate;
+  
+  // bind to the onload event
+  window.addEventListener('load', function() {
+    // Get the current state from localstorage
+    // State is stored as a JSON string
+    cbstate = JSON.parse(localStorage['CBState'] || '{}');
+  
+    // Loop through state array and restore checked 
+    // state for matching elements
+    for(var i in cbstate) {
+      var el = document.querySelector('input[name="' + i + '"]');
+      if (el) el.checked = true;
+    }
+  
+    // Get all checkboxes that you want to monitor state for
+    var cb = document.getElementsByClassName('save-cb-state');
+  
+    // Loop through results and ...
+    for(var i = 0; i < cb.length; i++) {
+  
+      //bind click event handler
+      cb[i].addEventListener('click', function(evt) {
+        // If checkboxe is checked then save to state
+        if (this.checked) {
+          cbstate[this.name] = true;
+        }
+    
+    // Else remove from state
+        else if (cbstate[this.name]) {
+          delete cbstate[this.name];
+        }
+    
+    // Persist state
+        localStorage.CBState = JSON.stringify(cbstate);
+      });
+    }
+  });
+})();
+</script>
 </html>
