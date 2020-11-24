@@ -250,14 +250,18 @@
 <p>*if you are not able/comfortable abusing the saves to get the miracles/spells in just 2 playthroughs, you will have to do a third and final NG++</p>
 <input id="checkBox" type="checkbox"> 
 <script language='javascript'> 
-$(function(){
-    var test = localStorage.input === 'true'? true: false;
-    $('input').prop('checked', test || false);
-});
-
-$('input').on('change', function() {
-    localStorage.input = $(this).is(':checked');
-    console.log($(this).is(':checked'));
-});
+$('#checkBox').click(function(e){ 
+	if (e.target.checked) { 
+  	localStorage.checked = true; 
+  } else { 
+  	localStorage.checked = false; 
+  } 
+}) 
+ 
+$( document ).ready(function() { 
+   
+	document.querySelector('#checkBox').checked = localStorage.checked 
+   
+}); 
 </script> 
 </html>
