@@ -1,0 +1,497 @@
+{
+    "groups": [
+        {
+            "name": "Start New Game",
+            "steps": [
+                {
+                    "text": "Pick the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Providential+Ring'>Providential Ring</a> as your starting gift",
+                    "subtext": ""
+                },
+                {
+                    "text": "Recommend Royalty class",
+                    "subtext": "<a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Fragrant+Ring'>Fragrant Ring</a> saves time, and magic helps a few trophies "
+                },
+                {
+                    "text": "If Royalty, build towards 40 Magic, 30 Int, any other stats as you see fit"
+                },
+                {
+                    "text": "Don't invade anyone.",
+                    "subtext": "Don't use Blue Stone in World 3 as you might be summoned as Old Monk boss."
+                }
+            ]
+        },
+        {
+            "name": "Gates of Boletaria (1-1)",
+            "steps": [
+                {
+                    "text": "Pick up the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Cling+Ring'>Cling Ring</a>, on a corpse after the first shortcut is opened at the bottom of the first tower"
+                },
+                {
+                    "text": "Obtain the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Jade+Ornament'>Jade Ornament</a> by cutting the 2 chains supporting the balcony on first tower.",
+                    "subtext": "Used to trade later for a ring"
+                },
+                {
+                    "text": "Kill Ostrava for the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Mausoleum+Key'>Mausoleum Key</a> ",
+                    "subtext": "You can opt to help him instead, but you will have to complete his whole <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Ostrava,+of+Boletaria'>quest chain</a> without him dying in order to get the key later. You don't need his quest chain for platinum, so if you want one less thing to worry about, just kill him now"
+                },
+                {
+                    "text": "Pick up the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Thief+Ring'>Thief Ring</a> right beside where you killed Ostrava"
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Phalanx'>Phalanx</a>"
+                },
+                {
+                    "text": "Warp to Nexus, talk to maiden, talk to monumental, talk to maiden to level up etc, kill yourself in the Nexus to go to Soul form"
+                }
+            ]
+        },
+        {
+            "name": "The Lord's Path (1-2)",
+            "steps": [
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Tower+Knight'>Tower Knight</a> without killing any archers to also grab One Shall Fall trophy."
+                },
+                {
+                    "text": "Return to Nexus, suicide"
+                }
+            ]
+        },
+        {
+            "name": "Smithing Grounds (2-1)",
+            "steps": [
+                {
+                    "text": "Kill Fat Officials that you see to start collecting the Official's gear",
+                    "subtext": "Keep in your inventory"
+                },
+                {
+                    "text": "Activate lifts, drain the lava pit, collect <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Ring+of+Poison+Resistance'>Ring of Poison Resistance</a> where lava pit was. "
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Armor+Spider'>Armor Spider</a>"
+                },
+                {
+                    "text": "Return to Nexus, do not suicide!",
+                    "subtext": "We now want to start dying in world 2 to bring it to black</p>"
+                }
+            ]
+        },
+        {
+            "name": "The Tunnel City (2-2)",
+            "steps": [
+                {
+                    "text": "Run up tunnel, turn left, run past 3 exploding minecarts. Kill fat official. Suicide. Repeat until <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Gold+Coin'>Gold Coin</a> drops."
+                },
+                {
+                    "text": "Run up tunnel, turn right, start dropping down all the scaffolding. Pick up <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Plague+Resistance+Ring'>Ring of Disease Resistance</a> from a corpse.",
+                    "subtext": "Some wikis will refer to this as Ring of Plague Resistance, its the same ring!"
+                },
+                {
+                    "text": "At very bottom of shaft, go through door. Turn left, get <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Hands+of+God'>Hands of God</a> fist weapons."
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Flamelurker'>Flamelurker</a>"
+                },
+                {
+                    "text": "Return to Nexus, level up, warp back to 2-3 and suicide in level."
+                }
+            ]
+        },
+        {
+            "name": "Underground Temple (2-3)",
+            "steps": [
+                {
+                    "text": "Pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Master's+Ring'>Master's Ring</a> behind the second ballista on a corpse "
+                },
+                {
+                    "text": "When fighting <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Dragon+God'>Dragon God</a>, deliver the final blow with BOTH the Hands of God equipped, one in each hand.",
+                    "subtext": "You can lower his HP to a few pixels with your weapon of choice (be careful not to overkill) but deliver final blow with Hands of God. Even if you're a mage with no strength, you can equip these and just do little bits of damage at a time."
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Dragon+God'>Dragon God</a> and achieve Fists of Legend trophy as well"
+                },
+                {
+                    "text": "Return to Nexus, level up, warp back to 2-3 and suicide in level."
+                }
+            ]
+        },
+        {
+            "name": "Inner Ward (1-3)",
+            "steps": [
+                {
+                    "text": "Make your way through this level, killing the Fat Officials to get the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Iron+Ring+of+Keys'>Iron Ring of Keys</a> and <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Official's+Cap'>Official's cap</a> "
+                },
+                {
+                    "text": "Open the large gate that opens a shortcut back to the Tower Knight archstone"
+                },
+                {
+                    "text": "Use <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Iron+Ring+of+Keys'>Iron Ring of Keys</a> to go to dungeon and kill a Fat Official to get <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Bloody+Iron+Key'>Bloody Iron Key</a>"
+                },
+                {
+                    "text": "Free <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Biorr,+of+the+Twin+Fangs'>Biorr of the Twin Fangs</a>"
+                },
+                {
+                    "text": "Use <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Bloody+Iron+Key'>Bloody Iron Key</a> to go free <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a> after equipping all 4 pieces of the Official's clothes, to get Witch in the Tower"
+                },
+                {
+                    "text": "Pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Ring+Of+Magical+Nature'>Ring of Magical Nature</a> and <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Ring+of+the+Accursed'>Ring of the Accursed</a> from this room."
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Penetrator'>Penetrator</a>",
+                    "subtext": "<a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Biorr,+of+the+Twin+Fangs'>Biorr</a> will show up to help and also get Brother-in-Arms "
+                },
+                {
+                    "text": "Return to Nexus. Learn <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Firestorm'>Firestorm</a> from <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a>, which will help immensely. Suicide in World 2 somewhere."
+                }
+            ]
+        },
+        {
+            "name": "Prison of Hope (3-1)",
+            "steps": [
+                {
+                    "text": "Pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Ring+Of+Magical+Sharpness'>Ring of Magical Sharpness</a> in the cell with 4 iron maiden caskets. "
+                },
+                {
+                    "text": "Roll across the bridge to dodge the volleys from the large idol to get Time for Rolling trophy "
+                },
+                {
+                    "text": "Pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Clever+Rat's+Ring'>Clever Rat's Ring</a> on bridge after deactiving the large idol"
+                },
+                {
+                    "text": "Kill Black Phantom on stairs to get <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Black+Eye+Stone'>Black Eye Stone</a> and <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Stone+of+Ephemeral+Eyes'>Stone of Ephemeral Eyes x2</a> "
+                },
+                {
+                    "text": "Defeat the man up on the balcony (right side) prior to entering Fool's Idol fog gate, grab Freke's cell keys off the wall. "
+                },
+                {
+                    "text": "Free Sage Freke for A Dash of Sage "
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Fool's+Idol'>Fool's Idol</a>, making sure you only attack the true idol to get Not Fooled trophy as well. "
+                },
+                {
+                    "text": "Return to Nexus, learn <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Soul+Ray'>Soul Ray</a> from <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Sage+Freke,+the+Visionary'>Freke</a>. Suicide in World 2 somewhere."
+                }
+            ]
+        },
+        {
+            "name": "Upper Latria (3-2)",
+            "steps": [
+                {
+                    "text": "Make your way to top of first chain tower, kill fanatics to break chain"
+                },
+                {
+                    "text": "Continue onward to where <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Yurt,+the+Silent+Chief'>Yurt</a> is in a cage. Free him, then kill Yurt",
+                    "subtext": "On this first playthrough, you can actually just take one of the first 2 cages down to the swamp and just don't interact with Yurt at all if you want"
+                },
+                {
+                    "text": "Travel down to blood swamp, pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Fragrant+Ring'>Fragrant Ring</a> down there, not needed if you started as Royalty."
+                },
+                {
+                    "text": "Work your way to top of second tower, kill fanatics to break chain."
+                },
+                {
+                    "text": "With the heart gone, go to the bottom of the area where it was hanging to pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Ring+of+Avarice'>Ring of Avarice</a> and also <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Gold+Mask'>Gold Mask</a>"
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Maneater'>Maneaters</a> (<a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline' href='https://demonssouls.wiki.fextralife.com/Firestorm'>Firestorm</a> can one-shot)"
+                },
+                {
+                    "text": "Return to Nexus, suicide in World 2 somewhere"
+                }
+            ]
+        },
+        {
+            "name": "The Ivory Tower (3 - 3)",
+            "steps": [
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Old+Monk'>Old Monk</a>"
+                },
+                {
+                    "text": "Return to Nexus, learn <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Soul+Thirst'>Soul Thirst</a> from <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a>. Suicide in world 2 somewhere. (It should be pure black by now)"
+                },
+                {
+                    "text": "Return to 3-2, (should now be Pure White World Tendency) run back to the top of the first chain tower"
+                },
+                {
+                    "text": "You should now be able to go to very top of tower and pick up <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Prison+of+Hope+2F+West+Key'>Rydell's cell keys (Prison of Hope 2F West Key)</a>"
+                },
+                {
+                    "text": "Run back and free <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Lord+Rydell'>Lord Rydell</a> to get <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Dull+Rat's+Ring'>Dull Rat's Ring</a>"
+                }
+            ]
+        },
+        {
+            "name": "Island's Edge (4 - 1)",
+            "steps": [
+                {
+                    "text": "Pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Talisman+of+God'>Talisman of God</a> from corpse before first fog gate"
+                },
+                {
+                    "text": "Pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Regenerator's+Ring'>Regenerator's Ring</a> from the crystal lizard path before <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Adjudicator'>Adjudicator</a> fog gate"
+                },
+                {
+                    "text": "Pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Graverobber's+Ring'>Graverobber's Ring</a> from wooden platform before <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Adjudicator'>Adjudicator</a> fog gate"
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Adjudicator'>Adjudicator</a> without having him fall down (stay up top and use ranged/magic on his head) to get One Shall Stand"
+                },
+                {
+                    "text": "Return to Nexus, Warp to 3-2, then suicide (we want to start bringing this world to black)"
+                }
+            ]
+        },
+        {
+            "name": "The Ritual Path (4 - 2)",
+            "steps": [
+                {
+                    "text": "Repeatedly kill <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Black+Skeleton'>Black Skeletons</a> until you get <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Pure+Bladestone'>Pure Bladestone</a>. Google farming methods."
+                },
+                {
+                    "text": "Kill the reaper guy, step on switch, go down and talk to <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Patches,+the+Hyena'>Patches</a>, let him kick you into the basement."
+                },
+                {
+                    "text": "Kill black phantom and talk to <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Saint+Urbain'>Saint Urbain</a> for the Umbasa trophy"
+                },
+                {
+                    "text": "Walk back upstairs and talk to <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Patches,+the+Hyena'>Patches</a> for the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Gash+Resistance+Ring'>Ring of Gash Resistance</a>"
+                },
+                {
+                    "text": "Make your way down to the glowing pools cavern, and pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ronin's+Ring'>Ronin's Ring</a>"
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Old+Hero'>Old Hero</a> (<a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Firestorm'>Firestorm</a> can almost one-shot)"
+                },
+                {
+                    "text": "Return to Nexus, Warp to 3-2, then suicide"
+                }
+            ]
+        },
+        {
+            "name": "Altar of Storms (4 - 3)",
+            "steps": [
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Storm+King'>Storm King</a>"
+                },
+                {
+                    "text": "Return to Nexus, Warp to 3-2, then suicide"
+                }
+            ]
+        },
+        {
+            "name": "Upper Latria (3 - 2) (Returning)",
+            "steps": [
+                {
+                    "text": "This world should be getting close to Pure Black. Use some blue <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Stone+of+Ephemeral+Eyes'>Stone of Ephemeral Eyes</a> to become human and suicide"
+                },
+                {
+                    "text": "Alternate warping between 3-2 and 3-3 archstone after each death to refresh the world tendency state"
+                },
+                {
+                    "text": "Become human and suicide until you have pure black world"
+                },
+                {
+                    "text": "Go down to blood swamp and pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Sodden+Ring'>Sodden Ring</a>",
+                    "subtext": "Behind a pillar near Prisoner Horde in the depths of 3-2, Upper Latria Archstone. Requires pure black world tendency"
+                },
+                {
+                    "text": "Kill the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Primeval+Demon'>Primeval Demon</a> down in the swamp to get <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Colorless+Demon's+Soul'>Colorless Demon's Soul</a>"
+                }
+            ]
+        },
+        {
+            "name": "Depraved Chasm (5 -1)",
+            "steps": [
+                {
+                    "text": "Pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ring+Of+Magical+Dullness'>Ring of Magical Dullness</a> towards the start of level, on top of shack roof"
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Leechmonger'>Leechmonger</a> (<a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Firestorm'>Firestorm</a> can almost one-shot)"
+                },
+                {
+                    "text": "Return to Nexus, suicide"
+                }
+            ]
+        },
+        {
+            "name": "Swamp of Sorrow (5 - 2)",
+            "steps": [
+                {
+                    "text": "Equip your <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Sodden+Ring'>Sodden Ring</a>. Out in the swamp you can find <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Cat+Ring'>Cat's Ring</a> guarded by a black phantom"
+                },
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Dirty+Colossus'>Dirty Colossus</a> (<a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Firestorm'>Firestorm</a> can one-shot)"
+                },
+                {
+                    "text": "Return to Nexus, suicide"
+                }
+            ]
+        },
+        {
+            "name": "Rotting Haven (5 - 3)",
+            "steps": [
+                {
+                    "text": "Defeat <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Maiden+Astraea'>Maiden Astraea</a> without killing her bodyguard to get May you be unharmed trophy"
+                },
+                {
+                    "text": "Pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ring+of+Sincere+Prayer'>Ring of Sincere</a> Prayer by touching archstone after killing Astraea"
+                },
+                {
+                    "text": "Return to Nexus, learn <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Relief'>Relief</a> from <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a>. Suicide"
+                },
+                {
+                    "text": "Warp back to 5-2, then run backwards through the level until finding the new ladder (Pure White world only)"
+                },
+                {
+                    "text": "The ladder takes you up, follow the path, kill the enemies and find the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Istarelle'>shining spear (Istarelle)</a>. Obtain One of the few trophy."
+                }
+            ]
+        },
+        {
+            "name": "Island's Edge (4 - 1) (Returning)",
+            "steps": [
+                {
+                    "text": "Warp to 4-1, and <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Satsuki'>Satsuki</a> should be at the very front gate. (Pure white world) Talk to him, accept quest to get the sword."
+                },
+                {
+                    "text": "Travel back to the dungeon where <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Patches,+the+Hyena'>Patches</a> kicked you, you can now loot the magic sword, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Magic+Sword+Makoto'>Mikoto</a>"
+                },
+                {
+                    "text": "Return to <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Satsuki'>Satsuki</a> (do not have the sword equipped). Give him the sword when prompted for Worthy of the Sword trophy."
+                },
+                {
+                    "text": "You can kill him after he attacks you"
+                },
+                {
+                    "text": "Travel up to <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Sparkly+the+Crow'>Sparkly the Crow</a>, and trade one <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Pure+Bladestone'>Pure Bladestone</a> for <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ring+of+Longevity'>Ring of Longevity</a>"
+                },
+                {
+                    "text": "Trade <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Gold+Coin'>Gold Coin</a> for <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ring+of+Uneven+Scales'>Ring of Uneven Scales</a>"
+                },
+                {
+                    "text": "Trade <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Gold+Mask'>Gold Mask</a> for <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Colorless+Demon's+Soul'>Colorless Demon's Soul</a> and also <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Talisman+of+God'>Talisman of God</a> for another <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Colorless+Demon's+Soul'>Colorless Demon's Soul</a>"
+                }
+            ]
+        },
+        {
+            "name": "The King's Tower (1 - 4)",
+            "steps": [
+                {
+                    "text": "Kill <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Old+King+Allant'>False King</a>"
+                },
+                {
+                    "text": "With Pure White world tendency, the dragons will not be guarding the treasures back in 1-1."
+                },
+                {
+                    "text": "Head back to the area of 1-1 the dragons guarded, and safely pickup <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Flame+Resistance+Ring'>Ring of Flame Resistance</a> and <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ring+of+Great+Strength'>Ring of Great Strength</a>.",
+                    "subtext": "Note, you risk being invaded as you walk back to get these rings. Consider returning to Nexus first to suicide."
+                },
+                {
+                    "text": "Return to Nexus, do NOT talk to Maiden in Black yet"
+                }
+            ]
+        },
+        {
+            "name": "The Lord's Path (1 - 2) (Returning)",
+            "steps": [
+                {
+                    "text": "Warp to Phalanx stone and work backwards to climb back to the top of the first wall. On one end, you will find a path to the Mausoleum."
+                },
+                {
+                    "text": "Use the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Mausoleum+Key'>Mausoleum Key</a> to enter, and talk to the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Old+King+Doran'>Old King Doran</a>. Fight him until he gets about 75% health, and he will surrender."
+                },
+                {
+                    "text": "Pickup the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Demonbrandt'>Demonbrandt</a>"
+                },
+                {
+                    "text": "Kill the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Old+King+Doran'>Old King Doran</a> to get <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Eternal+Warrior's+Ring'>Eternal Warrior's Ring</a>"
+                },
+                {
+                    "text": "Return to Nexus, do NOT talk to Maiden in Black yet"
+                }
+            ]
+        },
+        {
+            "name": "NEXUS",
+            "steps": [
+                {
+                    "text": "Do not talk to the Maiden in Black before acquiring <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ally's+Ring'>Ally's ring</a> (see a few lines below)"
+                },
+                {
+                    "text": "Learn all normal spells/miracles from <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a>, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Sage+Freke,+the+Visionary'>Freke</a>, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Saint+Urbain'>Urbain</a>"
+                },
+                {
+                    "text": "Learn all boss spells/miracles from <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a>, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Sage+Freke,+the+Visionary'>Freke</a>, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Saint+Urbain'>Urbain</a>"
+                },
+                {
+                    "text": "Trade <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Jade+Hair+Ornament'>Jade Ornament</a> to <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Stockpile+Thomas'>Stockpile Thomas</a> for <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ring+of+Herculean+Strength'>Ring of Herculean Strength</a>"
+                },
+                {
+                    "text": "Get all worlds to pure black by repeatedly dying as human form. At pure black, kill the named Black Phantom NPC (<a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Executioner+Miralda'>Miralda</a>, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Scirvir,+the+Wanderer'>Scirvir</a>, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Lord+Rydell'>Rydell</a>, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Satsuki'>Satsuki</a>, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Selen+Vinland'>Selen</a>)",
+                    "subtext": "IMPORTANT: do NOT kill them by fall damage/poison/bleed/etc."
+                },
+                {
+                    "text": "To save a lot of time, you can instead have a friend invade you and kill them a few times until your character tendecy is pure white"
+                },
+                {
+                    "text": "You are now Pure White character. Talk to the monumental (say Yes, then keep talking) he will give you <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ally's+Ring'>Ally's ring</a>"
+                },
+                {
+                    "text": "Use your <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Blue+Eye+Stone'>Blue Eye Stone</a> near boss gates to help another play beat a boss for Return to Form"
+                },
+                {
+                    "text": "Use your <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Black+Eye+Stone'>Black Eye Stone</a> to invade someone else and kill them to get Unwelcome Guest"
+                }
+            ]
+        },
+        {
+            "name": "THE OLD ONE",
+            "steps": [
+                {
+                    "text": "Speak to the Maiden to be transported below"
+                },
+                {
+                    "text": "Kill the Old King Allant and obtain <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Soulbrandt'>Soulbrandt</a>"
+                },
+                {
+                    "text": "Leave and allow the Maiden to lull the Old One to slumber to beat the game and obtain <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Maiden+in+Black's+Demon's+Soul'>Maiden in Black's Demon's Soul</a>"
+                }
+            ]
+        },
+        {
+            "name": "NEW GAME PLUS",
+            "steps": [
+                {
+                    "text": "Beat all world bosses again. Skip everything optional. Kill <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yurt,+the+Silent+Chief'>Yurt</a>. Free <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Sage+Freke,+the+Visionary'>Freke</a>, <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Saint+Urbain'>Urbain</a>, and <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a>."
+                },
+                {
+                    "text": "Go to blacksmith in 2-1 and give him Searing Demon's Soul for Road to Possibilities trophy"
+                },
+                {
+                    "text": "Select 'upgrade' weapon with <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Demonbrandt'>Demonbrandt</a> and <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Soulbrandt'>Soulbrandt</a> on hand to form the <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Northern+Regalia'>Northern Regalia</a> for Legacy of the Kings"
+                },
+                {
+                    "text": "Create a backup save. Learn all miracles from <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Saint+Urbain'>Urbain</a>. You should get Saint's Trophy. Revert to old save.",
+                    "subtext": "If you are not able/comfortable abusing the saves to get the miracles/spells in just 2 playthroughs, you will have to do a third and final NG++"
+                },
+                {
+                    "text": "Learn all spells from Freke/Yuria. You should get Sage's Trophy"
+                },
+                {
+                    "text": "Get pure black Character tendency by killing NPCs, should only take 4 or 5. Do not kill <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a> yet. Kill <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Saint+Urbain'>Urbain</a> and loot his <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Ring+of+Devout+Prayer'>Ring of Devout Prayer</a>"
+                },
+                {
+                    "text": "<a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Mephistopheles'>Mephistopheles</a> will appear on the 2nd level of the Nexus. Accept her quests to kill NPC's until she asks you to kill <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a>."
+                },
+                {
+                    "text": "Kill <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Yuria,+the+Witch'>Yuria</a>, report to <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Mephistopheles'>Mephistopheles</a>, get your <a target='_blank' class='font-medium text-blue-600 dark:text-blue-500 hover:underline'  href='https://demonssouls.wiki.fextralife.com/Foe's+Ring'>Foe's Ring</a> and also King of Rings trophy"
+                },
+                {
+                    "text": "Descend with the Maiden in Black, kill the Old King Allant, then also kill the Maiden for Seekest soul power trophy"
+                },
+                {
+                    "text": "You should now have Slayer of Trophies platinum! Congratulations"
+                }
+            ]
+        }
+    ]
+}
